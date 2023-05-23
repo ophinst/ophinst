@@ -1,8 +1,8 @@
-👋 Hi, I’m @ophinst
-👀 I’m interested in developing and modifying things!
-🌱 I’m currently learning President University
-💞️ I’m looking to collaborate on everywhere!
-📫 How to reach me : dm me on twt @itzdubuu
+- 👋 Hi, I’m @ophinst
+- 👀 I’m interested in developing and modifying things!
+- 🌱 I’m currently learning President University
+- 💞️ I’m looking to collaborate on everywhere!
+- 📫 How to reach me : dm me on twt @itzdubuu
 
 <p align="left">
 <a href="https://github.com/ophinst16%22%3E
